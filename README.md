@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamza BAYAR</h1>
-<h3 align="center">3rd year Computer Engineering student at Ondokuz Mayıs University</h3>
+<h3 align="center">4th year Computer Engineering student at Ondokuz Mayıs University</h3>
 
 - 🔭 I participated in solution challenge [Bed-Ridden Monitor (BRM)](https://github.com/Hamza-Bayar-2/solution_challenge.git)
 

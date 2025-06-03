@@ -5,7 +5,7 @@
 
 - 👨‍💻 We developed an app with my teammates to track budgets [Budget Wise](https://github.com/Hamza-Bayar-2/ButceTakip.git)
 
-- I developed a game with flame engine [The hunter](https://github.com/Hamza-Bayar-2/mini_game_via_flame)
+- 🎯 I developed a game with flame engine [The hunter](https://github.com/Hamza-Bayar-2/mini_game_via_flame)
 
 - 📫 How to reach me **hamzabayar234@gmail.com**
 

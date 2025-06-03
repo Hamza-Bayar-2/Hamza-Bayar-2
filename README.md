@@ -3,7 +3,7 @@
 
 - 🔭 I participated in solution challenge [Bed-Ridden Monitor (BRM)](https://github.com/Hamza-Bayar-2/solution_challenge.git)
 
-- 👨‍💻 We made an application with my teammates so that people can keep track of their budgets [Budget Wise](https://github.com/Hamza-Bayar-2/ButceTakip.git)
+- 👨‍💻 We developed an app with my teammates to track budgets. [Budget Wise](https://github.com/Hamza-Bayar-2/ButceTakip.git)
 
 - 📫 How to reach me **hamzabayar234@gmail.com**
 

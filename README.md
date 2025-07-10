@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **hamzabayar234@gmail.com**
 
-- 👨‍💻 Temprory personal website [Portfolio](https://hamza-bayar-2.github.io/portfolio-temp/)
+- 👨‍💻 Personal website [Portfolio](https://hamza-bayar-2.github.io/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

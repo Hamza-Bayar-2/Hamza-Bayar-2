@@ -12,6 +12,9 @@
 
 - 👨‍💻 Personal website [Portfolio](https://hamza-bayar-2.github.io/portfolio/)
 
+- 🍉 Seek out the truth [Eye On Palestine](https://x.com/EyeonPalestine?t=rhNocr6SOtalDR8IzRiloQ&s=09)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hamza-bayar-251b7b234/" target="blank">

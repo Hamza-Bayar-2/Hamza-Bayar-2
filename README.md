@@ -2,6 +2,8 @@
 
 <h3 align="center">4th year Computer Engineering student at Ondokuz Mayıs University</h3>
 
+- 👨‍💻 Personal website [Portfolio](https://hamza-bayar-2.github.io/portfolio/)
+
 - 🔭 I participated in solution challenge [Bed-Ridden Monitor (BRM)](https://github.com/Hamza-Bayar-2/solution_challenge.git)
 
 - 👨‍💻 We developed an app with my teammates to track budgets [Budget Wise](https://github.com/Hamza-Bayar-2/ButceTakip.git)
@@ -9,8 +11,6 @@
 - 🎯 I developed a game with flame engine [The Hunter](https://github.com/Hamza-Bayar-2/mini_game_via_flame)
 
 - 📫 How to reach me **hamzabayar234@gmail.com**
-
-- 👨‍💻 Personal website [Portfolio](https://hamza-bayar-2.github.io/portfolio/)
 
 - 🍉 Seek out the truth [Eye On Palestine](https://x.com/EyeonPalestine?t=rhNocr6SOtalDR8IzRiloQ&s=09)
 

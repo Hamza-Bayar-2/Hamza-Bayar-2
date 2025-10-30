@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋🍉, I'm Hamza BAYAR </h1>
 
-<h3 align="center">4th year Computer Engineering student at Ondokuz Mayıs University</h3>
+<h3 align="center">Computer Engineer</h3>
 
 - 👨‍💻 Personal website [Portfolio](https://hamza-bayar-2.github.io/portfolio/)
 

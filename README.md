@@ -4,6 +4,8 @@
 
 - 👨‍💻 Personal website [Portfolio](https://hamza-bayar-2.github.io/portfolio/)
 
+- 📽 Youtube channel [Youtube](https://www.youtube.com/@hamzabayar3547)
+
 - 📫 How to reach me **hamzabayar234@gmail.com**
 
 - 🍉 Seek out the truth [Eye On Palestine](https://x.com/EyeonPalestine?t=rhNocr6SOtalDR8IzRiloQ&s=09)

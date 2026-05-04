@@ -56,6 +56,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="36" alt="flutter logo" />
   </a>
   <img width="12" />
+  <a href="https://flame-engine.org/">
+    <img src="https://github.com/flame-engine/brand/blob/main/icons/Icon-192.png" height="36" alt="flame engine logo" />
+  </a>
+  <img width="12" />
   <a href="https://unity.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="36" alt="unity logo" />
   </a>
@@ -75,11 +79,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="git logo" />
   </a>
   <img width="12" />
-  <a href="https://github.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="github logo" />
-  </a>
-  <img width="12" />
   <a href="https://www.figma.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="36" alt="figma logo" />
+  </a>
+  <img width="12" />
+  <a href="https://github.com/">
+    <img src="https://github.com/user-attachments/assets/a55de832-0cf1-420c-b91b-5518bb146fa3" height="42" alt="github logo" />
   </a>
 </div>
